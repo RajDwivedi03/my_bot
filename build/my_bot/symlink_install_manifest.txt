@@ -1,6 +1,8 @@
+/home/raj/dev_ws/install/my_bot/share/my_bot/config/drive_bot.rviz
 /home/raj/dev_ws/install/my_bot/share/my_bot/config/empty.yaml
 /home/raj/dev_ws/install/my_bot/share/my_bot/description/gazebo_control.xacro
 /home/raj/dev_ws/install/my_bot/share/my_bot/description/inertial_macros.xacro
+/home/raj/dev_ws/install/my_bot/share/my_bot/description/lidar.xacro
 /home/raj/dev_ws/install/my_bot/share/my_bot/description/robot.urdf.xacro
 /home/raj/dev_ws/install/my_bot/share/my_bot/description/robot_core.xacro
 /home/raj/dev_ws/install/my_bot/share/my_bot/launch/launch_sim.launch.py
