@@ -1,0 +1,48 @@
+[0.006s] Invoking command in '/home/raj/dev_ws/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/raj/dev_ws/src/my_bot -DCMAKE_INSTALL_PREFIX=/home/raj/dev_ws/install/my_bot
+[0.019s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.276s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.295s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.371s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.374s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.375s] -- Added test 'lint_cmake' to check CMake code style
+[0.375s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.377s] -- Added test 'xmllint' to check XML markup files
+[0.377s] -- Configuring done
+[0.381s] -- Generating done
+[0.388s] -- Build files have been written to: /home/raj/dev_ws/build/my_bot
+[0.402s] Invoked command in '/home/raj/dev_ws/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/raj/dev_ws/src/my_bot -DCMAKE_INSTALL_PREFIX=/home/raj/dev_ws/install/my_bot
+[0.404s] Invoking command in '/home/raj/dev_ws/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/raj/dev_ws/build/my_bot -- -j12 -l12
+[0.485s] Invoked command in '/home/raj/dev_ws/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/raj/dev_ws/build/my_bot -- -j12 -l12
+[0.493s] Invoking command in '/home/raj/dev_ws/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/raj/dev_ws/build/my_bot
+[0.497s] -- Install configuration: ""
+[0.497s] -- Execute custom install script
+[0.498s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/config/drive_bot.rviz
+[0.499s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/config/empty.yaml
+[0.500s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/config/mapper_params_online_async.yaml
+[0.501s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/description/camera.xacro
+[0.502s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/description/depth_camera.xacro
+[0.502s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/description/gazebo_control.xacro
+[0.504s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/description/inertial_macros.xacro
+[0.505s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/description/lidar.xacro
+[0.505s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/description/robot.urdf.xacro
+[0.506s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/description/robot_core.xacro
+[0.507s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/launch/launch_sim.launch.py
+[0.507s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/launch/rsp.launch.py
+[0.508s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/worlds/empty.world
+[0.508s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/worlds/obstacles.world
+[0.508s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
+[0.508s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/ament_index/resource_index/parent_prefix_path/my_bot
+[0.509s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/environment/ament_prefix_path.sh
+[0.509s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/environment/ament_prefix_path.dsv
+[0.509s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/environment/path.sh
+[0.509s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/environment/path.dsv
+[0.509s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/local_setup.bash
+[0.510s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/local_setup.sh
+[0.510s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/local_setup.zsh
+[0.511s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/local_setup.dsv
+[0.511s] -- Symlinking: /home/raj/dev_ws/install/my_bot/share/my_bot/package.dsv
+[0.552s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/ament_index/resource_index/packages/my_bot
+[0.553s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/cmake/my_botConfig.cmake
+[0.553s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/cmake/my_botConfig-version.cmake
+[0.554s] -- Up-to-date symlink: /home/raj/dev_ws/install/my_bot/share/my_bot/package.xml
+[0.564s] Invoked command in '/home/raj/dev_ws/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/raj/dev_ws/build/my_bot
